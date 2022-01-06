@@ -1,6 +1,4 @@
 z =""" 안녕하세요
-ㅋㅋ
-ㅋㅋ
-ㅋㅋ
+Now testing github upload
 """
 print(z)
